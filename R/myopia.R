@@ -8,5 +8,9 @@
 #'   \item{Light}{Level of night light}
 #'   \item{Sight}{Level of myopia}
 #' }
-#' @source <https://math.montana.edu/courses/s216/data/ChildrenLightSight.csv>
+#' @source
+#' https://math.montana.edu/courses/s216/#data
+#' @details
+#' Module 8 Activity 17:  Nearsighted children study (ChildrenLightSight.csv)>
+#' <https://math.montana.edu/courses/s216/data/ChildrenLightSight.csv>
 "myopia"

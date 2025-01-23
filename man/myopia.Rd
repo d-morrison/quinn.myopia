@@ -13,12 +13,16 @@ A data frame with 479 rows and 2
 }
 }
 \source{
-<https://math.montana.edu/courses/s216/data/ChildrenLightSight.csv>
+https://math.montana.edu/courses/s216/#data
 }
 \usage{
 myopia
 }
 \description{
 Data on myopia from Quinn et al
+}
+\details{
+Module 8 Activity 17:  Nearsighted children study (ChildrenLightSight.csv)>
+<https://math.montana.edu/courses/s216/data/ChildrenLightSight.csv>
 }
 \keyword{datasets}
