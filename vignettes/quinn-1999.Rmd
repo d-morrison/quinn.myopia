@@ -16,12 +16,12 @@ knitr::opts_chunk$set(
 
 ```{r setup}
 # library(quinn.myopia)
-load_all()
+devtools::load_all()
 ```
 
 ```{r}
 library(ggplot2)
-myopia %>% # Data set piped into...
+myopia |>  # Data set piped into...
   ggplot(aes(x = Sight)) + # This specifies the variable
   geom_bar(stat = "count") + # Tell it to make a bar plot
   labs(title = "Frequency Bar Plot of Level of Myopia", # Give your plot a title
@@ -72,8 +72,14 @@ parameters(glm1)
 
 ```
 
+Response letters to editor:
 
-Some discussion: [https://www.nei.nih.gov/about/news-and-events/news/myopia-development-and-nighttime-light-exposure-infancy]
+- Zadnik et al https://www.nature.com/articles/35004661
+- Gwiazda et al https://www.nature.com/articles/35004663
+
+Some discussion: 
+
+- [https://www.nei.nih.gov/about/news-and-events/news/myopia-development-and-nighttime-light-exposure-infancy]
 
 Response from original authors:
 
