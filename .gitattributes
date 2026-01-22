@@ -1,3 +1,3 @@
-inst/doc
-vignettes/*.html
-vignettes/*.R
+inst/doc linguist-generated=true
+vignettes/*.html linguist-generated=true
+vignettes/*.R linguist-generated=true

@@ -59,7 +59,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement [here](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FUCD-SERG%2Fserocalculator&report=UCD-SERG+%28user%29). 
+reported to the community leaders responsible for enforcement [here](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fd-morrison%2Fquinn.myopia&report=d-morrison+%28user%29). 
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -118,7 +118,7 @@ version 2.1, available at
 <https://www.contributor-covenant.org/version/2/1/code_of_conduct.html>.
 
 Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][https://github.com/mozilla/inclusion].
+[Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/inclusion).
 
 For answers to common questions about this code of conduct, see the FAQ at
 <https://www.contributor-covenant.org/faq>. Translations are available at <https://www.contributor-covenant.org/translations>.
