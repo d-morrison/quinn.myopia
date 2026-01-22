@@ -1,7 +1,7 @@
 Package: quinn.myopia
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.1.1
+Version: 0.1.0.9000
 Authors@R: c(
     person("Douglas Ezra", "Morrison", , "demorrison@ucdavis.edu", role = c("aut", "cre"))
   )
