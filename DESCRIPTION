@@ -1,7 +1,7 @@
 Package: quinn.myopia
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Douglas Ezra", "Morrison", , "demorrison@ucdavis.edu", role = c("aut", "cre"))
   )
@@ -23,6 +23,7 @@ Suggests:
     devtools,
     ggplot2,
     knitr,
+    parameters,
     rmarkdown,
     spelling,
     testthat (>= 3.0.0),
