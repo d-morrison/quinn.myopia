@@ -83,11 +83,7 @@ covr::package_coverage()
 
 These commands must be run in this order and all must pass without errors before pushing changes or requesting code review. This ensures that CI/CD workflows will pass and prevents wasting reviewer time on fixable issues.
 
-**Note for CI/CD Environments**: If R is not available in the local environment (e.g., GitHub Copilot agent), ensure that:
-1. All documentation files in `man/` are regenerated after any changes to R source files or DESCRIPTION
-2. Workflow status is monitored after each commit to catch any validation failures early
-3. Any workflow failures are addressed immediately in follow-up commits
-4. The `/document` PR command can be used to trigger documentation regeneration via GitHub Actions
+**Note**: The `.github/workflows/copilot-setup-steps.yml` workflow automatically installs R and all required dependencies in the GitHub Copilot agent environment, so these validation commands should always be run before committing.
 
 ### Example Validation Workflow
 

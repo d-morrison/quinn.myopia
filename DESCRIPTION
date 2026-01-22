@@ -5,8 +5,9 @@ Version: 0.1.0.9000
 Authors@R: c(
     person("Douglas Ezra", "Morrison", , "demorrison@ucdavis.edu", role = c("aut", "cre"))
   )
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Provides data and tools for exploring the relationship between 
+    myopia (nearsightedness) and ambient lighting at night in children, based 
+    on the article by Quinn et al. (1999) <doi:10.1038/20094>.
 License: MIT + file LICENSE
 URL: https://github.com/d-morrison/quinn.myopia, https://d-morrison.github.io/quinn.myopia/
 BugReports: https://github.com/d-morrison/quinn.myopia/issues
