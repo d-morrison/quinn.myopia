@@ -51,7 +51,7 @@ jobs:
 
       - name: Configure git safe directory
         run: |
-          git config --global --add safe.directory /__w/rpt/rpt
+          git config --global --add safe.directory /__w/quinn.myopia/quinn.myopia
 
       - name: Configure git
         run: |
@@ -144,7 +144,7 @@ jobs:
 
       - name: Configure git safe directory
         run: |
-          git config --global --add safe.directory /__w/rpt/rpt
+          git config --global --add safe.directory /__w/quinn.myopia/quinn.myopia
 
       - name: Clean up PR Preview
         run: |
