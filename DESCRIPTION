@@ -27,9 +27,7 @@ Suggests:
     parameters,
     rmarkdown,
     spelling,
-    testthat (>= 3.0.0),
     withr,
     quarto
-Config/testthat/edition: 3
 VignetteBuilder: quarto
 LazyData: true
