@@ -5,11 +5,13 @@
 \alias{myopia}
 \title{Myopia data}
 \format{
-## `myopia`
+\subsection{\code{myopia}}{
+
 A data frame with 479 rows and 2
 \describe{
-  \item{Light}{Level of night light}
-  \item{Sight}{Level of myopia}
+\item{Light}{Level of night light}
+\item{Sight}{Level of myopia}
+}
 }
 }
 \source{
@@ -23,6 +25,6 @@ Data on myopia from Quinn et al
 }
 \details{
 Module 8 Activity 17:  Nearsighted children study (ChildrenLightSight.csv)>
-<https://math.montana.edu/courses/s216/data/ChildrenLightSight.csv>
+\url{https://math.montana.edu/courses/s216/data/ChildrenLightSight.csv}
 }
 \keyword{datasets}
